@@ -1,0 +1,12 @@
+#! /bin/bash
+
+######
+#Author:Vinay DevOps-2
+#Date:16-09-2024
+#Desc:
+
+echo 'Enter your Username'
+read USERNAME
+echo 'Enter your Password'
+read 'Password'
+echo'Your Username is $USERNAME ,Password is $Password'
