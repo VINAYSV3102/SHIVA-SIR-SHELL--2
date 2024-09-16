@@ -9,4 +9,4 @@ echo 'Enter your Username'
 read USERNAME
 echo 'Enter your Password'
 read 'Password'
-echo'Your Username is $USERNAME ,Password is $Password'
+echo 'Your Username is $USERNAME ,Password is $Password'
